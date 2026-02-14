@@ -1,0 +1,11 @@
+{
+    "owner": {
+        "username": "brtzsnr",
+        "email": "brtzsnr@gmail.com"
+    },
+    "record": {
+        "CNAME": "tornblind-1057975328702.europe-central2.run.app",
+        "TXT": ["google-site-verification=zKihNy-8g7krU2kX32xpuszTGm9CLKtPhMoAY7QfVWQ"]
+    },
+    "proxied": true
+}
